@@ -10,6 +10,6 @@ class PalindromeMakerSpec extends Specification {
         desc                   | input         | expected
         'empty string'         | ''            | ''
         'single-letter string' | 'a'           | 'aa'
-        'longer string'        | 'qwerty12345' | 'qwerty1234554321ytreq'
+        'longer string'        | 'qwerty12345' | 'qwerty1234554321ytrewq'
     }
 }

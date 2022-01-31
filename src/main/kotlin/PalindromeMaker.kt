@@ -1,3 +1,3 @@
 fun paldindromeMaker(input: String): String {
-    return ""
+    return input + input.reversed()
 }
